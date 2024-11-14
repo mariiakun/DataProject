@@ -17,4 +17,4 @@ Hollywood movies released between 2012-2016 including total movie budget and rev
 ### Data Cleaning and Preparation
 1. Data loading and inspection
 2. Handling errors, missing values
-3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here -  
+3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here - [Download file]()
