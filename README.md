@@ -17,4 +17,10 @@ Hollywood movies released between 2012-2016 including total movie budget and rev
 ### Data Cleaning and Preparation
 1. Data loading and inspection
 2. Handling errors, missing values
-3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here - [Download file]()
+3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here - [Download file](https://github.com/user-attachments/files/17754588/Movies.Data.Dashboard.xlsx)
+### Questions answered
+- Most profitable genres in this period of time
+- Most successful actors
+- The best and the worst movie based on return on investment
+ ### Results and findings
+ The best profitable movie was **The Devil Inside**, with the Box office Revenue 100 times the movie budget (10,000% ROI). The genre of it was Horror. 
