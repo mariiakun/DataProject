@@ -24,3 +24,5 @@ Hollywood movies released between 2012-2016 including total movie budget and rev
 - The best and the worst movie based on return on investment
  ### Results and findings
  The best profitable movie was **The Devil Inside**, with the Box office Revenue 100 times the movie budget (10,000% ROI). The genre of it was Horror. Horror movie might be a good investment, especially if the budget is low. </br> The most successful genre overall was **Action**. </br> The most successful actress by the total Box Office Revenue was **Jennifer Lawrence**.
+### Data Visualization
+![Dashboard_Screenshot](https://github.com/user-attachments/assets/32707896-2f8a-4459-84c7-58298bba0b6f)
