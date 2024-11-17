@@ -17,7 +17,7 @@ Hollywood movies released between 2012-2016 including total movie budget and rev
 ### Data Cleaning and Preparation
 1. Data loading and inspection
 2. Handling errors, missing values
-3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here - [Download file](https://github.com/user-attachments/files/17754588/Movies.Data.Dashboard.xlsx)
+3. Data cleaning and formatting. The resulting excel file ready for analysis can be downloaded here - [Download file](https://github.com/mariiakun/DataProject/blob/efb3d6a4eb40ac88a6df8053762cc429bc82c9ca/Movies%20Data%20Ready%20for%20Dashboard.xlsx)
 ### Questions answered
 - Most profitable genres in this period of time
 - Most successful actors
